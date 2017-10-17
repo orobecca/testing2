@@ -12,6 +12,10 @@ Women of color in science, technology, engineering, and math librarianship are u
 
 My name is Rebecca Orozco. I am an Assistant Librarian at the University of Kansas Libraries. I serve as the science and engineering librarian. I created this repository to help me organize resources, project workflow, and nuture a sense of community. 
 
-## Would you like to contribute?  
-Please see the contributing files. 
+## Would you like to contribute? 
+- CONTRIBUTORS SKILLS  
+
+- WAYS TO CONTRIBUTE  
+
+For more details please see the contributing files. (attatch file) 
 
